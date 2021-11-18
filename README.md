@@ -23,7 +23,7 @@ This was created to be able to see the average Macronutrients and Micronutrients
 
 This is an example on setting up an environment on your computer even for a non-programmer who wishes to have a better view of their progress on myFitnesspal and wants to convert their data that they have exported into totals per day/month.
 
-\n - Install everything under the "Built With" section
+- Install everything under the "Built With" section
 - Open the file Nutrition.ipynb with VSCode
 - Replace "Insert-Here.csv" with the name of your exported myFitnesspal CSV file that you emailed to yourself (Make sure Nutrition.ipynb and your .csv are in the same location/folder)
 - Click Run All (Runs all code) 
