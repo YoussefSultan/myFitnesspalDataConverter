@@ -16,7 +16,7 @@ This converter produces two new .csv files from the original .csv file you provi
 ### By Day
 ![converterday](https://i.gyazo.com/ba7a3ed0c244dc6fc0904eb1111c28dd.png)
 ## Example dashboard that can be derived from using this package:
-(https://github.com/YoussefSultan/myFitnesspalDataConverter/blob/master/myFitnesspal_Dashboard.png?raw=true)
+![conv](https://github.com/YoussefSultan/myFitnesspalDataConverter/blob/master/myFitnesspal_Dashboard.png?raw=true)
 ### Built With
  
 * [Python](https://www.python.org/downloads/) 
