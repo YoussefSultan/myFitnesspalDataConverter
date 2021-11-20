@@ -9,7 +9,7 @@ This was created to be able to see the average Macronutrients and Micronutrients
 
 Seeing this data as a whole helps understand progress better and allows for better visualization and data analysis depending on the use case.
 
-This converter produces two new .csv files from the original .csv file you provide. (*Disclaimer* The csv you provide is received in an email from myFitnessPal when using the export function if you have a premium membership).
+This converter produces two new .csv files from the original .csv file you provide. (*Disclaimer* The csv you provide is received in an email from myFitnessPal when using the export function if you have a premium membership.)
 ## Example conversion:
 ![converter](https://i.gyazo.com/8fc6817903d664ce945f75f2744d6d99.png)
 ![converterday](https://i.gyazo.com/ba7a3ed0c244dc6fc0904eb1111c28dd.png)
