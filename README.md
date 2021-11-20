@@ -27,8 +27,8 @@ This converter produces two new .csv files from the original .csv file you provi
 from mfp_converter.convert import convert
 convert(r"\Directory\Of\myFitnessPalExport.csv")
 ```
-## More information on the package
-[pypi](https://pypi.org/project/myFitnessPal-Converter/)
+### More information on the package
+* [pypi](https://pypi.org/project/myFitnessPal-Converter/)
 <!-- CONTRIBUTING -->
 ## Contributing
 
