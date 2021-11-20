@@ -23,7 +23,7 @@ This converter produces two new .csv files from the original .csv file you provi
 
 <!-- GETTING STARTED -->
 ## Getting Started
-`Install using pip install myFitnessPal-Converter`
+`pip install myFitnessPal-Converter`
 ```python
 from mfp_converter.convert import convert
 convert(r"\Directory\Of\myFitnessPalExport.csv")
