@@ -29,7 +29,7 @@ from mfp_converter.convert import convert
 convert(r"\Directory\Of\myFitnessPalExport.csv")
 ```
 ### More information on the project
-* [GitHub](https://github.com/YoussefSultan/myFitnesspalDataConverter)
+* [PyPi](https://pypi.org/project/myFitnessPal-Converter/)
 <!-- CONTRIBUTING -->
 ## Contributing
 
