@@ -9,11 +9,12 @@ classifiers = [
 
 setup(
   name='myFitnessPal_Converter',
-  version='0.0.1',
+  version='0.0.3',
   author='Youssef Sultan',
   author_email='youssefsultann@gmail.com',
   description='For converting myFitnessPal CSV exports to monthly or daily exports',
-  long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
+  long_description=open('README.md').read() + '\n\n' + open('CHANGELOG.txt').read(),
+  long_description_content_type='text/markdown',
   license='MIT',
   classifiers=classifiers,
   keywords='MyFitnessPal',
